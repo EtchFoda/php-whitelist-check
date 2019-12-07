@@ -64,6 +64,7 @@ class Check
 
 			$this->_definitions[] = $definitionObject;
 		}
+		return $this;
 	}
 	
 	/**
