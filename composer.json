@@ -1,9 +1,9 @@
 {
-	"name": "jalle19/php-whitelist-check",
+	"name": "etchfoda/php-whitelist-check",
 	"type": "library",
 	"description": "Provides a simple way to check whether an address or domain is on a whitelist",
 	"keywords": ["whitelist", "ipv4", "cidr", "ipv6"],
-	"homepage": "https://github.com/Jalle19/php-whitelist-check",
+	"homepage": "https://github.com/etchfoda/php-whitelist-check",
 	"license": "BSD-2-Clause",
 	"require": {
 		"php": ">=5.3.0",
